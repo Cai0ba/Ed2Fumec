@@ -1,0 +1,1 @@
+Este arquivo é uma base do quicksort, que visa ordenar um vetor de2 numeros

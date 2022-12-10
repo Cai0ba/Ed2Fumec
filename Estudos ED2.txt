@@ -1,0 +1,28 @@
+-------FILA----
+FIFO 
+FIRST IN FIRST OUT
+
+-------PILHA P ---
+LIFO
+LAST IN FIRST OUT 
+
+PUSH PARA INSERIR -> PUSH(P,ITEM)
+&&
+POP REMOVER -> ITEM = POP(P) 	
+
+
+
+------------------------------------
+NOTAÇÃO INIFIXA -> 5+2//5*2+3//5+2*3
+NOTAÇÃO POSFIXA -> 52+//52*3+//523*+
+NOTAÇÃO PREFIXA -> +52
+
+
+fscanf(fd,"%d %d", &nLInhas,&nColunas	)
+
+C:\Users\caioh\Desktop\DevC\matrizEsparsa>matriz < entrada.txt 
+C:\Users\caioh\Desktop\DevC\matrizEsparsa>matriz < entrada.txt > teste.txt
+
+
+
+SE SOFRE UMA ALTERAÇÃO ESTRUTURAL PRECISA PASSAR A REFERENCIA
